@@ -1,0 +1,15 @@
+Sure! Here is the list of essential files for a ReactJS website about Leonardo da Vinci in a Git repository:
+- index.html
+- styles.css
+- utils.js
+- components/BackgroundImage.js
+- components/Button.js
+- components/Portrait.js
+- components/Sketch.js
+- pages/About.js
+- pages/Artwork.js
+- pages/Life.js
+- pages/Timeline.js
+- public/favicon.ico
+- public/robots.txt
+- README.md
